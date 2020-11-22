@@ -10,6 +10,12 @@ Clone the repository
 git clone https://github.com/zamarise/retrieve-list.git
 ```
 
+Add an .env file with environment variable and value
+
+```
+echo "VUE_APP_LIST_API=REPLACE-THIS-TEXT-WITH-CORRECT-VALUE" >> .env
+```
+
 Install dependencies
 
 ```
